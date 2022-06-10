@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  Independente do rpotocolo a ser utilizado, para se controlar uma Seção Crítica (Critical Sectio, ou somente CS),
+  Independente do rpotocolo a ser utilizado, para se controlar uma Seção Crítica (Critical Section, ou somente CS),
   o ideal é que o mesmo obedeça a 3 regras de ouro:
   Exclusão Mútua (Mutual Exclusion).
   Progresso (Progress).
